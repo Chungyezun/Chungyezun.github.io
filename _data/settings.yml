@@ -4,9 +4,9 @@ analytics-id: #leave blank to not use Analytics
 #Subtitle
 subtitle:
   active: true
-  text: Yet Another Minimal Theme
+  text: 초보개발자 예준이의 블로그
 
-#Nav 
+#Nav
 nav:
   pages:
     active: true

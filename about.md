@@ -3,5 +3,6 @@ layout: default
 title: About
 ---
 
-# [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
-See [Github](https://github.com/PandaSekh/Jekyll-YAMT).
+# 초보개발자 예준이의 블로그입니당
+
+예준이의 [Github](https://github.com/Chungyezun).
