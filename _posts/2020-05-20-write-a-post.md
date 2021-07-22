@@ -23,4 +23,3 @@ customexcerpt: "Custom excerpt for the homepage"
 {% endhighlight %}
 
 Tags can be used but are pretty much useless, as related posts use categories.
-ㅇ.
